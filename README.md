@@ -24,6 +24,7 @@ Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
+![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=flat&logo=laravel&logoColor=red)
 
 **Infrastructure**
 
