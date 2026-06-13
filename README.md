@@ -3,9 +3,9 @@
 
 **MSc Electrical Engineering → IT Security & DevOps**
 
-A decade of technical work across four countries: military avionics, radio access network operations, semiconductor research, telecom troubleshooting, IT field support, and cloud-adjacent platform consulting. Every layer added a different way of seeing systems fail — and recover — with real stakes attached to MTTR, MTBF, and uptime.
-From designing data acquisition systems for RF material characterization (C/C++, Python, real-time signal processing) to RAN operations and field IT, I've tracked faults from the physical layer up to the platform. I read packet captures and logs with an end-to-end view — and I think about MTTF, MTTA, and failure modes the same way.
-Now I'm bringing that ground-up perspective to cybersecurity, cloud infrastructure, and DevOps — where MTTR and ROI on reliability are outcomes, not just metrics.
+A decade of technical work across four countries: military avionics, radio access network operations, semiconductor research, telecom troubleshooting, IT field support, and cloud-adjacent platform consulting. Every layer added a different way of seeing systems fail — and recover.
+From hardware instrumentation and signal processing to network operations and field IT, I've built systems where reliability wasn't optional — tracking failure, minimizing downtime, and improving recovery across every layer. That's the observability and operational resilience mindset I carry into every role.
+Now I'm bringing that ground-up perspective to cybersecurity, cloud infrastructure, and DevOps — where reducing MTTR and delivering ROI on reliability are outcomes, not just metrics.
 
 
 Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
