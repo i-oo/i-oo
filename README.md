@@ -27,7 +27,6 @@ Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
 ![PowerShell](https://img.shields.io/badge/PowerShell-5391FE?style=flat&logo=powershell&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![LabVIEW](https://img.shields.io/badge/LabVIEW-FFDB00?style=flat&logo=labview&logoColor=black)
-![Laravel](https://img.shields.io/badge/Laravel-FFFFFF?style=flat&logo=laravel&logoColor=red)
 
 **Infrastructure**
 
@@ -47,6 +46,7 @@ Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
 ![Incident Response](https://img.shields.io/badge/Incident%20Response-B71C1C?style=flat&logoColor=white)
 ![Threat Hunting](https://img.shields.io/badge/Threat%20Hunting-C62828?style=flat&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Splunk](https://img.shields.io/badge/Splunk-FF6B35?style=flat&logo=splunk&logoColor=white)
 
 **Networking**
 
