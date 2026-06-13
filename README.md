@@ -1,7 +1,7 @@
 # Hi, I'm Buchi (he/him)👋 
 
 
-**MSc Electrical Engineering → IT Security & DevOps**
+**MSc Electrical Engineering → IT DevOps & Security**
 
 A decade of technical work across four countries: military avionics, radio access network operations, semiconductor research, telecom troubleshooting, IT field support, and cloud-adjacent platform consulting. Every layer added a different way of seeing systems fail — and recover.
 
