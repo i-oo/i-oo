@@ -7,6 +7,8 @@ A decade of technical work across four countries: military avionics and power sy
 
 Currently studying for **AZ-104** (Azure Administrator) and building a DevSecOps project portfolio targeting Technology & Innovation roles.
 
+Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
+
 
 ---
 
