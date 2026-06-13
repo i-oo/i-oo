@@ -1,4 +1,4 @@
-# Hi, I'm Buchi (He/him)👋 
+# Hi, I'm Buchi (he/him)👋 
 
 
 **MSc Electrical Engineering → IT Security & DevOps**
