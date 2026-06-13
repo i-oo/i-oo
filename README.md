@@ -3,9 +3,10 @@
 
 **MSc Electrical Engineering → IT Security & DevOps**
 
-A decade of technical work across four countries: military avionics and power systems, radio access network operations, semiconductor research labs, telecom troubleshooting, IT field support, and cloud-adjacent platform consulting. Every layer added a different way of seeing systems fail — and recover. Now I'm bringing that ground-up, end-to-end perspective to cybersecurity, cloud infrastructure, and DevOps.
+A decade of technical work across four countries: military avionics, radio access network operations, semiconductor research, telecom troubleshooting, IT field support, and cloud-adjacent platform consulting. Every layer added a different way of seeing systems fail — and recover — with real stakes attached to MTTR, MTBF, and uptime.
+From designing data acquisition systems for RF material characterization (C/C++, Python, real-time signal processing) to RAN operations and field IT, I've tracked faults from the physical layer up to the platform. I read packet captures and logs with an end-to-end view — and I think about MTTF, MTTA, and failure modes the same way.
+Now I'm bringing that ground-up perspective to cybersecurity, cloud infrastructure, and DevOps — where MTTR and ROI on reliability are outcomes, not just metrics.
 
-Currently studying for **AZ-104** (Azure Administrator) and building a DevSecOps project portfolio targeting Technology & Innovation roles.
 
 Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
 
@@ -88,16 +89,6 @@ Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
 ## 📚 Currently Learning
 
 - 🔄 **AZ-104** Azure Administrator <img width="20" height="20" alt="loading" src="https://github.com/user-attachments/assets/d6dc9777-c47a-4199-bd02-855aa0167f5d" />
-
-
----
-
-
-## 🧠 Background
-
-Currently in an IT Service/Field Tech role and a brokerage system platform engineer contractor role. Before this, I designed and built **data acquisition systems** for semiconductor and RF material characterization at the University of Saskatchewan — integrating sensors, instruments, and real-time signal processing pipelines in C/C++ and Python. Before that, I supported **radio access network operations** at Globacom (Lagos) and electronic systems for the Nigerian Air Force.
-
-That background means I read packet captures and logs differently than most, and I think about network and system faults from an end-to-end view.
 
 
 ---
