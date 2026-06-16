@@ -80,9 +80,6 @@ Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽 · 🥋
 | Project | Description | Stack |
 |---|---|---|
 | [`siem-log-parser`](https://github.com/i-oo/siem-log-parser)  <img width="20" height="20" alt="loading" src="https://github.com/user-attachments/assets/d6dc9777-c47a-4199-bd02-855aa0167f5d" /> | Normalizes Windows/Linux/Apache logs into structured JSON for SIEM ingestion | Python |
-| [`kql-query-library`](https://github.com/i-oo/kql-query-library)  <img width="20" height="20" alt="loading" src="https://github.com/user-attachments/assets/d6dc9777-c47a-4199-bd02-855aa0167f5d" /> | Detection queries for Microsoft Sentinel mapped to MITRE ATT&CK | KQL |
-| [`terraform-azure-infra`](https://github.com/i-oo/terraform-azure-infra)  <img width="20" height="20" alt="loading" src="https://github.com/user-attachments/assets/d6dc9777-c47a-4199-bd02-855aa0167f5d" /> | Reproducible Azure infrastructure (VNet, VMs, Key Vault) as code | Terraform / HCL |
-| [`openshift-homelab`](https://github.com/i-oo/openshift-homelab)  <img width="20" height="20" alt="loading" src="https://github.com/user-attachments/assets/d6dc9777-c47a-4199-bd02-855aa0167f5d" /> | Local OpenShift cluster (CRC) with Helm-packaged app deployments | OpenShift / YAML |
 
 
 ---
