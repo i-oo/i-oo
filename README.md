@@ -10,7 +10,7 @@ From hardware instrumentation and signal processing to network operations and fi
 Now I'm bringing that ground-up perspective to cybersecurity, cloud infrastructure, and DevOps — where reducing MTTR and delivering ROI on reliability are outcomes, not just metrics.
 
 
-Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽
+Fun: 🏊 · 🚣‍♂️ · 📺 · 🧑🏾‍💻 · 🚴🏽 · 🥋
 
 
 ---
